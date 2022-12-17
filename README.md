@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swami-hai-ham
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on cp
+- 💞️ I’m looking to 
 - 📫 How to reach me swamiatharva15104@gmail.com
 
 <!---
