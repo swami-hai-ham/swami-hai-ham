@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swami-hai-ham
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently 
 - 💞️ I’m looking to 
 - 📫 How to reach me swamiatharva15104@gmail.com
 
